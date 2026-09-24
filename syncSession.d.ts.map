@@ -1,0 +1,1 @@
+{"version":3,"file":"syncSession.d.ts","sourceRoot":"","sources":["../../../src/generated/types/syncSession.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAE3C,MAAM,WAAW,WAAW;IAC1B,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,EAAE,QAAQ,CAAC;IACf,SAAS,EAAE,IAAI,CAAC;CACjB"}
